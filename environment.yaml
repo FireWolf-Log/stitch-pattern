@@ -1,0 +1,8 @@
+name: stitch-ptrn
+channels:
+  - conda-forge
+dependencies:
+  - python==3.14
+  - networkx==3.7
+  - matplotlib
+  - pip
